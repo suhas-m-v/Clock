@@ -65,7 +65,7 @@ digital-clock/
 ## Example
 
 When you open the application, the clock will display something like:
-![Clock Example]
+![Clock Example](https://github.com/suhas-m-v/Clock/blob/395d00b999afef28ed5b2d67c418cf7b7d572cd5/Screenshot%202024-10-11%20220802.png)
 
 
 
